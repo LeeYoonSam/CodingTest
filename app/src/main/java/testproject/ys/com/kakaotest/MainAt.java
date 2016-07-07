@@ -26,6 +26,7 @@ import testproject.ys.com.kakaotest.helper.NetworkHelper;
 
 public class MainAt extends Activity implements OnScrollListener {
 
+    // 최대 재시도 횟수
     final static int MAX_RETRY_DATA = 10;
     final static int PAGE_COUNT = 30;
 
