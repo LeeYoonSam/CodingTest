@@ -16,6 +16,7 @@ import testproject.ys.com.kakaotest.helper.NetworkHelper;
 
 public class IntroAt extends Activity {
 
+	// 파싱 시간 체크
 	long start;
 	int gridType = 1;
 
