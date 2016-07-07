@@ -18,6 +18,8 @@ public class IntroAt extends Activity {
 
 	// 파싱 시간 체크
 	long start;
+
+	// 그리드뷰 타입 정의
 	int gridType = 1;
 
 	@Override
