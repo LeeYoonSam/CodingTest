@@ -1,5 +1,3 @@
-KakaoTest
-
 # KakaoTest
 
 This project is personal sample project.
