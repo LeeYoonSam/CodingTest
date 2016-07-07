@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Intro.."
+        android:textSize="30sp" />
+    
+    <Button
+        android:id="@+id/btJsoup"
+        android:layout_width="match_parent" 
+        android:layout_height="40dp"
+        android:text="jsoup + AUIL Parsing"/>
+    
+    <Button
+        android:id="@+id/btJericho"
+        android:layout_width="match_parent" 
+        android:layout_height="40dp"
+        android:layout_below="@id/btJsoup"
+        android:text="jericho + Picasso Parsing"/>
+
+    
+</RelativeLayout>
