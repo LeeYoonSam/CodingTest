@@ -1,4 +1,4 @@
-# KakaoTest
+# CodingTest
 
 This project is personal sample project.
 
